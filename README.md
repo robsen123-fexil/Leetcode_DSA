@@ -443,6 +443,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
@@ -541,6 +542,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
