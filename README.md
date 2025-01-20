@@ -240,6 +240,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
 | [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
@@ -463,6 +464,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -709,6 +711,7 @@
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2685-first-completely-painted-row-or-column](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
 | ------- |
