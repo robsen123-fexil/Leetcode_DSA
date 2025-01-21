@@ -252,6 +252,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -473,6 +474,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
