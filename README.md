@@ -393,6 +393,7 @@
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
+| [0299-bulls-and-cows](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
@@ -503,6 +504,7 @@
 | [0125-valid-palindrome](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0165-compare-version-numbers) |
+| [0299-bulls-and-cows](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
@@ -838,6 +840,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0387-first-unique-character-in-a-string) |
