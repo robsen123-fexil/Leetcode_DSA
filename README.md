@@ -742,6 +742,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
