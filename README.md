@@ -270,6 +270,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3651-transformed-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
+| [3651-transformed-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3651-transformed-array) |
 ## Linked List
 |  |
 | ------- |
