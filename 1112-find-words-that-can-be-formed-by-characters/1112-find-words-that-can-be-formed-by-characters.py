@@ -1,17 +1,16 @@
 class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:
-        cnt=Counter(chars)
-        count=0
-        for i in words:
-            cnt1=Counter(i)
-            l=0
-            for key , value in cnt1.items():
-                if key in cnt and cnt[key]>=value:
-                    l+=1
+        result=0
+        def checker(s , t):
+            cnt1=Counter(t)
+            for i in s:
+                if cnt1[i] and s.count(i)<=cnt1[i]:
+                    continue
                 else:
-                    break
-            if l==len(cnt1):
-                count+=(len(i))
-        
-        return count       
-                
+                    return False
+            return True
+        count=0
+        for w in words:
+            if checker(w , chars ):
+                count+=len(w)
+        return count
