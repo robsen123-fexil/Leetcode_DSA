@@ -448,6 +448,7 @@
 | [1813-maximum-erasure-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -553,6 +554,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -873,6 +875,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
