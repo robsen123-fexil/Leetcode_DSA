@@ -205,6 +205,7 @@
 | [1848-sum-of-unique-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1848-sum-of-unique-elements) |
 | [1876-map-of-highest-peak](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1876-map-of-highest-peak) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -357,6 +358,7 @@
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -385,6 +387,7 @@
 | [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -775,6 +778,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2491-smallest-even-multiple) |
@@ -1027,6 +1031,7 @@
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
 ## Interactive
 |  |
