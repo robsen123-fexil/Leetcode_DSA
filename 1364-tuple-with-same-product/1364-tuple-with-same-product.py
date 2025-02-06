@@ -7,7 +7,7 @@ class Solution:
         count=0
         print(cnt)
         for v in cnt.values():
-            if v>=2:
-                count+=(v*(v-1)*4)
+            
+            count+=(v*(v-1)*4)
         return count
             
