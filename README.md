@@ -211,6 +211,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -747,6 +748,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1876-map-of-highest-peak) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2685-first-completely-painted-row-or-column](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
