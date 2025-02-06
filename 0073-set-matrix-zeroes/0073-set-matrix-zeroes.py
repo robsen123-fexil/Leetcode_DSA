@@ -8,7 +8,7 @@ class Solution:
             for j in range(len(matrix[i])):
                 if matrix[i][j]==0:
                     result.append([i , j])
-        print(result)
+       
         for i in range(len(result)):
             col , row= result[i]
             l=0
@@ -16,6 +16,7 @@ class Solution:
                 matrix[col][l]=0
                 l+=1
             for k in matrix:
+                
                 k[row]=0
         print(matrix)
         return []
