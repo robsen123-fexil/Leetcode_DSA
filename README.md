@@ -177,6 +177,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -434,6 +435,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1297-maximum-number-of-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -866,6 +868,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
