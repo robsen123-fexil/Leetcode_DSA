@@ -97,6 +97,7 @@
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
@@ -357,6 +358,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
@@ -743,6 +745,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
