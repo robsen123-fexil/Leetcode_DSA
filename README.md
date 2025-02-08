@@ -488,6 +488,7 @@
 | [2378-sender-with-largest-word-count](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2378-sender-with-largest-word-count) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2427-first-letter-to-appear-twice) |
+| [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
@@ -858,6 +859,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
+| [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -942,6 +944,7 @@
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0303-range-sum-query-immutable) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
+| [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2778-frequency-tracker) |
 ## Monotonic Stack
 |  |
@@ -1079,4 +1082,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
