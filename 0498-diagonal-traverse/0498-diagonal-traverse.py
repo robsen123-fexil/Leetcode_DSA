@@ -13,13 +13,14 @@ class Solution:
                 ll.append(matriksi[i][j])
                 i += 1
                 j -= 1
-            return [i, j, ll]  
-        
+            return [i, j, ll]
         l, r = 0, 0
         ans = []
         while len(ans) < (len(mat) * len(mat[0])):
             a, b, ll = aranoledemi(l, r, mat)
-            ans.extend(ll)
+            for i in ll:
+                ans.append(i)
+           
             if b == len(mat[0]):
                 l = a+2
                 r = b -1
@@ -29,7 +30,8 @@ class Solution:
             if len(ans) == len(mat) * len(mat[0]):
                 break
             a, b, ll = arangadedemi(l, r, mat)
-            ans.extend(ll)
+            for i in ll:
+                ans.append(i)
             if a==len(mat):
                 l = a -1
                 r = b+2
