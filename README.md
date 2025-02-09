@@ -132,6 +132,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0523-continuous-subarray-sum) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
@@ -759,6 +761,7 @@
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
