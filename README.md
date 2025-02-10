@@ -380,6 +380,7 @@
 | [2698-find-the-array-concatenation-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3651-transformed-array) |
 ## Linked List
 |  |
@@ -606,6 +607,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3447-clear-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -850,6 +852,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
