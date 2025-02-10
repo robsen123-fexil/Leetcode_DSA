@@ -368,6 +368,7 @@
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
@@ -806,6 +807,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1925-count-nice-pairs-in-an-array) |
