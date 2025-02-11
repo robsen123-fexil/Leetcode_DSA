@@ -170,6 +170,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
@@ -330,6 +331,7 @@
 | [0941-sort-array-by-parity](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -650,6 +652,7 @@
 | [0941-sort-array-by-parity](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
+| [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
@@ -701,6 +704,7 @@
 | [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
