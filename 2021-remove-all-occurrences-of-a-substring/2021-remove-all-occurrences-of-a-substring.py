@@ -6,8 +6,7 @@ class Solution:
             
             
             if ''.join(stack[-len(part):])==part:
-                for _ in range(len(part)):
-                    stack.pop()
+                stack=stack[:-len(part)]
         return ''.join(stack)
 
         
