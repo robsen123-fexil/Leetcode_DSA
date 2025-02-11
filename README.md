@@ -372,6 +372,7 @@
 | [1642-water-bottles](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -587,6 +588,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -857,6 +859,7 @@
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3447-clear-digits) |
 ## Divide and Conquer
