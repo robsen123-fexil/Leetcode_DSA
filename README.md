@@ -227,6 +227,7 @@
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -665,6 +666,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2117-find-original-array-from-doubled-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -745,6 +747,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
