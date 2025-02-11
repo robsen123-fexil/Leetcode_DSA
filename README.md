@@ -119,6 +119,7 @@
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0303-range-sum-query-immutable) |
@@ -631,6 +632,7 @@
 | [0164-maximum-gap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0435-non-overlapping-intervals) |
@@ -905,6 +907,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0383-ransom-note) |
