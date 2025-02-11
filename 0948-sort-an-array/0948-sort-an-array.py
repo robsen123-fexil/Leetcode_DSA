@@ -2,7 +2,6 @@ class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         result=[]
         def mergesort(nums , result):
-            
             if len(nums)>1:
                 mid=len(nums)//2
                 lft=nums[:mid]
