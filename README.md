@@ -229,6 +229,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2117-find-original-array-from-doubled-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -677,6 +678,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -720,6 +722,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2117-find-original-array-from-doubled-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -953,6 +956,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2270-find-all-lonely-numbers-in-the-array) |
