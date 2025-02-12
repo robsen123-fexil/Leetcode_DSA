@@ -248,6 +248,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
@@ -503,6 +504,7 @@
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -676,6 +678,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -891,6 +894,7 @@
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
