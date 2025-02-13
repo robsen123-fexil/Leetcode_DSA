@@ -1,11 +1,18 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         result=[]
-        s=list(s)
-        p=list(sorted(p))
-        for i in range(len(s)-len(p)+1):
-            res=sorted(s[i:i+len(p)])
-            if p==res:
-                result.append(i)
+        l=0
+        frst=s[:len(p)]
+
+        if sorted(frst)==sorted(p):
+            result.append(0)
+        frst=list(frst)
+        for i in range(len(p) , len(s)):
+            frst.append(s[i])
+            frst.remove(s[l])
+            
+            if sorted(''.join(frst))==sorted(p):
+                result.append(l+1)
+            l+=1
         return result
 
