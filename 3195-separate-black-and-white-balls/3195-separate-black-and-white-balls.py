@@ -1,11 +1,13 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        s=list(s)
-        ones=ans=r=0
-        while r<len(s):
-            if s[r]=='1':
-                ones+=1
+        cntzero=s.count('0')
+        print(cntzero)
+        cntone=Counter()
+        count=0
+        for i in s:
+            if i=='1':
+                count+=(cntzero)
             else:
-                ans+=ones
-            r+=1
-        return ans
+                cntzero-=1
+
+        return count
