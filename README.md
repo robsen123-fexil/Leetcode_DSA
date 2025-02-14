@@ -192,6 +192,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -832,6 +833,7 @@
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1642-water-bottles) |
@@ -988,6 +990,7 @@
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2778-frequency-tracker) |
@@ -1057,6 +1060,7 @@
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1603-running-sum-of-1d-array) |
@@ -1088,6 +1092,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 ## Enumeration
 |  |
