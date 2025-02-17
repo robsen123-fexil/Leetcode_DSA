@@ -1150,4 +1150,8 @@
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
