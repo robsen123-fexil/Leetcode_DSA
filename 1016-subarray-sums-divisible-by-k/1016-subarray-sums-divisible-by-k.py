@@ -1,16 +1,14 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
-        hsh={0:1}
-        count=sums=0
-        for i in  range(len(nums)):
+        hsh=defaultdict(int)
+        hsh[0]+=1
+        sums=count=0
+        for i in range(len(nums)):
             sums+=nums[i]
-            res=sums%k
-            if res in hsh:
-                count+=hsh[res]
-                hsh[res]+=1
-            else:
-                hsh[res]=1
+            if (sums%k) in hsh:
+                count+=hsh[((sums%k))]
+            hsh[sums%k]+=1
         return count
-
-                
+        
+            
             
