@@ -5,8 +5,7 @@ class Solution:
         for a , b in requests:
             lists[a]+=1
             lists[b+1]-=1
-        for i in range(1 , len(lists)):
-            lists[i]+=lists[i-1]
+        lists = list(itertools.accumulate(lists))
         lists.sort(reverse=True)
         print(lists)
         nums.sort(reverse=True)
