@@ -7,7 +7,7 @@ class Solution:
             lists[b+1]-=1
         lists = list(itertools.accumulate(lists))
         lists.sort(reverse=True)
-        print(lists)
+        #print(lists)
         nums.sort(reverse=True)
         ans=0
         for a , b in zip(lists , nums):
