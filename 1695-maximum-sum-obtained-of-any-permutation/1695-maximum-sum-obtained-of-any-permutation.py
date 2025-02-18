@@ -1,6 +1,6 @@
 class Solution:
     def maxSumRangeQuery(self, nums: List[int], requests: List[List[int]]) -> int:
-        lists=[0]*(len(nums)+2)
+        lists=[0]*(len(nums)+1)
         sums=0
         for a , b in requests:
             lists[a]+=1
@@ -11,5 +11,5 @@ class Solution:
         nums.sort(reverse=True)
         ans=0
         for a , b in zip(lists , nums):
-            ans+=(a*b)
-        return ans % (10**9+7)
+            ans+=(a*b) % (10**9+7)
+        return ans  % (10**9+7)
