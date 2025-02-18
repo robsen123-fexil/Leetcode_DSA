@@ -1,9 +1,10 @@
-class Solution(object):
-    def findMiddleIndex(self, nums):
-        rightSum,leftSum = sum(nums),0
-        for i,num in enumerate(nums):
-            if leftSum == rightSum-num:
+class Solution:
+    def findMiddleIndex(self, nums: List[int]) -> int:
+        total = sum(nums)
+        prefix = 0
+        for i,x in enumerate(nums):
+            if prefix * 2 + x == total:
                 return i
-            leftSum += num
-            rightSum -= num
+            prefix += x
+        
         return -1
