@@ -207,6 +207,7 @@
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1755-defuse-the-bomb](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -676,6 +677,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1961-maximum-ice-cream-bars) |
@@ -721,6 +723,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1880-largest-merge-of-two-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1880-largest-merge-of-two-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1961-maximum-ice-cream-bars) |
@@ -1072,6 +1075,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2342-minimum-average-difference) |
