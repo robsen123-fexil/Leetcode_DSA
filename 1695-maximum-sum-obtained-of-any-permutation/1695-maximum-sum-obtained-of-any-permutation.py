@@ -6,9 +6,9 @@ class Solution:
             lists[a]+=1
             lists[b+1]-=1
         lists = list(itertools.accumulate(lists))
-        lists.sort(reverse=True)
+        lists = sorted(lists,reverse=True)
         #print(lists)
-        nums.sort(reverse=True)
+        nums = sorted(nums, reverse=True)
         ans=0
         for a , b in zip(lists , nums):
             ans+=(a*b) % (10**9+7)
