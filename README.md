@@ -277,6 +277,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3151-minimum-processing-time](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3151-minimum-processing-time) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -698,6 +699,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3151-minimum-processing-time](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3151-minimum-processing-time) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -737,6 +739,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3151-minimum-processing-time](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Binary Search
