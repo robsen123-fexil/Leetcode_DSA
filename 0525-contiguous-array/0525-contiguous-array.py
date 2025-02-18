@@ -1,18 +1,29 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        hsh={0:-1}
-        num=[]
+        ls=[]
         for i in nums:
             if i==0:
-                num.append(-1)
+                ls.append(-1)
             else:
-                num.append(1)
-        ans=sums=0
-        print(num)
-        for i in range(len(num)):
-            sums+=num[i]
+                ls.append(1)
+        hsh=defaultdict(int)
+        hsh[0]=-1
+        sums=0
+        maxima=-inf
+        print(ls)
+        for i  , val in enumerate(ls):
+            sums+=val
             if sums in hsh:
-                ans=max(ans , i-hsh[sums])
+                maxima=max(maxima , i-hsh[sums])
             elif sums not in hsh:
                 hsh[sums]=i
-        return ans
+
+        print(hsh)
+        return maxima if maxima!=-inf else 0 
+
+
+
+
+            
+
+
