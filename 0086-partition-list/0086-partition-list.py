@@ -5,22 +5,22 @@
 #         self.next = next
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        res=[]
-        current=head
-        while current:
-            res.append(current.val)
-            current=current.next
-        first=[]
-        sec=[]
-        for i in range(len(res)):
-            if res[i]<x:
-                first.append(res[i])
+        frst=head
+        lessk=ListNode(0)
+        lk=lessk
+        greatk=ListNode(0)
+        gk=greatk
+        while frst:
+            if frst.val<x:
+               lk.next=ListNode(frst.val)
+               lk=lk.next
             else:
-                sec.append(res[i])
-        ans=first+sec
-        dummy=ListNode(0)
-        current=dummy
-        for i in ans:
-            current.next=ListNode(i)
-            current=current.next
-        return dummy.next
+               gk.next=ListNode(frst.val)
+               gk=gk.next
+
+            frst=frst.next
+        ans=ListNode(0)
+        lk.next=greatk.next
+        tail=ans
+        tail.next=lessk.next
+        return ans.next
