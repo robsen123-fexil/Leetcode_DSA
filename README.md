@@ -413,6 +413,7 @@
 | [0086-partition-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
@@ -448,6 +449,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0219-contains-duplicate-ii) |
@@ -1021,6 +1023,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0303-range-sum-query-immutable) |
@@ -1128,6 +1131,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
