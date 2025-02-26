@@ -9,6 +9,6 @@ class Solution:
             neg_sum+=i
             neg_sum=min(neg_sum , 0)
             minimum_sum=max(minimum_sum , -neg_sum)
-            print(neg_sum , pos_sum)
+            
         answer=max(maximum_sum , minimum_sum)
         return answer
