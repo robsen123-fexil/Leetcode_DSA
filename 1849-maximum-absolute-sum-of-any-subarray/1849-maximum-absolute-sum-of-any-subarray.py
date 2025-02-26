@@ -1,21 +1,14 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        maxima=sums=0
+        answer=pos_sum=neg_sum=0
+        minimum_sum=maximum_sum=0
         for i in nums:
-            sums+=i
-            if sums<0:
-                sums = 0
-            maxima=max(maxima , sums)
-        minima=sums=0
-        for i in nums:
-            sums+=i
-            if sums>0:
-                sums=0
-            minima=min(minima , sums)
-        return max(maxima , abs(minima))
-
-
-
-
-
-        
+            pos_sum+=i
+            pos_sum=max(pos_sum , 0)
+            maximum_sum=max(maximum_sum , pos_sum)
+            neg_sum+=i
+            neg_sum=min(neg_sum , 0)
+            minimum_sum=max(minimum_sum , -neg_sum)
+            print(neg_sum , pos_sum)
+        answer=max(maximum_sum , minimum_sum)
+        return answer
