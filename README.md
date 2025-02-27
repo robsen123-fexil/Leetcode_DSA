@@ -185,6 +185,7 @@
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
+| [1242-matrix-block-sum](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1306-minimum-absolute-difference) |
@@ -845,6 +846,7 @@
 | [0661-image-smoother](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
+| [1242-matrix-block-sum](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1242-matrix-block-sum) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1117,6 +1119,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
+| [1242-matrix-block-sum](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1242-matrix-block-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
