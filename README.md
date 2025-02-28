@@ -295,6 +295,7 @@
 | [3308-apply-operations-to-make-string-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
 | [3324-split-the-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3324-split-the-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1140,6 +1141,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2714-left-and-right-sum-differences) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Quickselect
 |  |
 | ------- |
