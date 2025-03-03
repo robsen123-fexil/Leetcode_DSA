@@ -185,6 +185,7 @@
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1095-two-city-scheduling](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1206-corporate-flight-bookings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1206-corporate-flight-bookings) |
@@ -719,6 +720,7 @@
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
+| [1095-two-city-scheduling](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1095-two-city-scheduling) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1222-remove-covered-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1222-remove-covered-intervals) |
@@ -780,6 +782,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1095-two-city-scheduling) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
