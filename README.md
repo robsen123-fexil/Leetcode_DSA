@@ -147,6 +147,7 @@
 | [0561-array-partition](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
@@ -759,6 +760,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
