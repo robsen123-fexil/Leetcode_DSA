@@ -674,6 +674,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -795,6 +796,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2664-maximize-greatness-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2664-maximize-greatness-of-an-array) |
+| [3055-maximum-odd-binary-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3151-minimum-processing-time](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3195-separate-black-and-white-balls) |
@@ -924,6 +926,7 @@
 | [2556-convert-the-temperature](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2571-find-the-pivot-integer) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3055-maximum-odd-binary-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Memoization
 |  |
