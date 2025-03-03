@@ -165,6 +165,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
@@ -774,6 +775,7 @@
 | [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
