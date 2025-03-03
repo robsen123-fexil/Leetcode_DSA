@@ -177,6 +177,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
@@ -713,6 +714,7 @@
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
@@ -772,6 +774,7 @@
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
@@ -898,6 +901,7 @@
 | [0670-maximum-swap](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0670-maximum-swap) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
