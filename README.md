@@ -99,6 +99,7 @@
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0066-plus-one) |
@@ -759,6 +760,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0435-non-overlapping-intervals) |
@@ -842,6 +844,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
