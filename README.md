@@ -570,6 +570,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2574-count-subarrays-with-median-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1069,6 +1070,7 @@
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1090,6 +1092,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2778-frequency-tracker](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2778-frequency-tracker) |
 ## Monotonic Stack
 |  |
@@ -1203,6 +1206,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -1218,6 +1222,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
 | ------- |
