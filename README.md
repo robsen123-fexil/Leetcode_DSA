@@ -784,6 +784,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1095-two-city-scheduling) |
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1502-construct-k-palindrome-strings) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -913,6 +914,7 @@
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
