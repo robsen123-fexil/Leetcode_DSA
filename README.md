@@ -631,6 +631,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
@@ -974,6 +975,7 @@
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
