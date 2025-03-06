@@ -222,6 +222,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -648,6 +649,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -975,6 +977,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
