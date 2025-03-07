@@ -196,6 +196,7 @@
 | [1242-matrix-block-sum](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1364-tuple-with-same-product) |
@@ -979,6 +980,7 @@
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
@@ -1110,6 +1112,7 @@
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Union Find
 |  |
 | ------- |
