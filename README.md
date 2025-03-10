@@ -165,6 +165,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0837-most-common-word](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0841-shortest-distance-to-a-character) |
+| [0859-design-circular-deque](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0890-lemonade-change) |
@@ -446,6 +447,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1102,6 +1104,7 @@
 | [0303-range-sum-query-immutable](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1582-design-browser-history) |
@@ -1239,6 +1242,7 @@
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
