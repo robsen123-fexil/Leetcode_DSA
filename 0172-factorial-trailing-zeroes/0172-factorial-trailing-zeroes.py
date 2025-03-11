@@ -1,8 +1,11 @@
 class Solution:
     def trailingZeroes(self, n: int) -> int:
-        count=0
-        while n>=5:
+        def solver(n , ans):
+            if n<5:
+                return ans
             n//=5
-            count+=n
-        return count
-         
+            ans+=n
+            return solver(n , ans)
+        return solver(n , 0)
+        
+            
