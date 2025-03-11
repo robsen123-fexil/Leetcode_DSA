@@ -278,6 +278,7 @@
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-count-subarrays-with-median-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2574-count-subarrays-with-median-k) |
@@ -1158,6 +1159,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1251,6 +1253,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
@@ -1296,4 +1299,5 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
