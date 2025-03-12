@@ -414,6 +414,7 @@
 | [0874-backspace-string-compare](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -470,6 +471,7 @@
 | [0326-power-of-three](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -660,6 +662,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
