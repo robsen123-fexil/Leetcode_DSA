@@ -134,6 +134,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
@@ -849,6 +850,7 @@
 | [0367-valid-perfect-square](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
@@ -992,6 +994,7 @@
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
@@ -1129,6 +1132,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0739-daily-temperatures) |
@@ -1292,6 +1296,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 ## Game Theory
