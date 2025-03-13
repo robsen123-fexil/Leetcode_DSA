@@ -990,6 +990,7 @@
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0225-implement-stack-using-queues) |
@@ -1285,6 +1286,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 ## Graph
@@ -1322,8 +1324,10 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
