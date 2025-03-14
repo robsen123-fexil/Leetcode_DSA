@@ -1280,6 +1280,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1876-map-of-highest-peak) |
@@ -1287,6 +1288,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
@@ -1326,12 +1328,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
