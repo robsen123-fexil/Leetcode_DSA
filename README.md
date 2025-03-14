@@ -1334,6 +1334,7 @@
 | [0112-path-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1342,4 +1343,9 @@
 | [0112-path-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
