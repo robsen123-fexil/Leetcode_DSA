@@ -1302,6 +1302,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -1348,6 +1349,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -1362,6 +1364,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
