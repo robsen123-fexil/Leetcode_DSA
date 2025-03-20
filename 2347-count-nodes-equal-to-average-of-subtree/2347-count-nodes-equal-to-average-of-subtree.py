@@ -6,17 +6,15 @@ class Solution:
             def goer(node):
                 if not node:
                     return (0, 0)
-                left_sum, left_count = goer(node.left)
-                right_sum, right_count = goer(node.right)
+                sums, leng = goer(node.left)
+                sums2, leng2 = goer(node.right)
                 
-                total_sum = left_sum + right_sum + node.val
-                total_count = left_count + right_count + 1
-                return (total_sum, total_count)
-            
-            total_sum, total_count = goer(node)
-            if node.val == total_sum // total_count:
+                totalsum = sums + sums2 + node.val
+                totalcount = leng + leng2 + 1
+                return (totalsum, totalcount)
+            tot, cnt = goer(node)
+            if node.val == tot // cnt:
                 count += 1
-            
             count = solver(node.left, count)
             count = solver(node.right, count)
             
