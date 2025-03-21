@@ -95,6 +95,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
@@ -1339,6 +1340,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0077-combinations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Line Sweep
