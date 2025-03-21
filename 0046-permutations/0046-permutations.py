@@ -1,7 +1,17 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res=[]
-        for i in permutations(nums):
-            res.append(i)
-        return res
-
+        ans=[]
+        def backtrack():
+            if len(res)==len(nums):
+                
+                ans.append(res[:])
+                return 
+            for x in nums:
+                if x not in res:
+                    res.append(x)
+                    backtrack()
+                    res.pop()
+            return ans
+        
+        return backtrack()
