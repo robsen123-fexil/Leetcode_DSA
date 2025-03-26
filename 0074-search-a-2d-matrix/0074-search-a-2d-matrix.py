@@ -1,15 +1,25 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+       
+
+        def solver(l ,  nums):
+            
+            r=len(nums)-1
+           
+            while l<=r:
+                mid=l+(r-l)//2
+                if nums[mid]==target:
+                    return True
+                elif nums[mid]>target:
+                    r=mid-1
+                else:
+                    l=mid+1
+            return False
         for i in range(len(matrix)):
-            l=0
-            r=len(matrix[i])-1
-            if matrix[i][-1]>=target:
-                while l<=r:
-                    mid=(l+r)//2
-                    if matrix[i][mid]==target:
-                        return True
-                    elif matrix[i][mid]<target:
-                        l=mid+1
-                    else:
-                        r=mid-1
+            lsts=matrix[i]
+            if lsts[-1]>=target:
+                print('here')
+                return solver(0 , lsts)
         return False
+
+        
