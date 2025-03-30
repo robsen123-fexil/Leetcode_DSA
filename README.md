@@ -625,6 +625,7 @@
 | [0012-integer-to-roman](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0049-group-anagrams) |
@@ -897,6 +898,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
@@ -1355,6 +1357,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0077-combinations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
