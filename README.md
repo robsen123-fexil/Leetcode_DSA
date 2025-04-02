@@ -284,6 +284,7 @@
 | [2486-most-frequent-even-element](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -892,6 +893,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2634-minimum-common-value](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1052,6 +1054,7 @@
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1066,6 +1069,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1352,6 +1356,7 @@
 | [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Game Theory
 |  |
 | ------- |
@@ -1424,4 +1429,12 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
