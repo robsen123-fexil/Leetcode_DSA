@@ -236,6 +236,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1720-crawler-log-folder](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1755-defuse-the-bomb) |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -890,6 +891,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1053,6 +1055,7 @@
 | [0347-top-k-frequent-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
@@ -1069,6 +1072,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0948-sort-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Bucket Sort
 |  |
@@ -1355,6 +1359,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [2434-design-a-number-container-system](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Game Theory
@@ -1432,9 +1437,11 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
