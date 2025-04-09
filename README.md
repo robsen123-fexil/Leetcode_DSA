@@ -159,6 +159,7 @@
 | [0611-valid-triangle-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0682-baseball-game) |
@@ -527,6 +528,7 @@
 | [0567-permutation-in-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0797-rabbits-in-forest) |
@@ -754,6 +756,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0658-find-k-closest-elements) |
 | [0900-reordered-power-of-2](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0917-boats-to-save-people) |
@@ -1010,6 +1013,7 @@
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
