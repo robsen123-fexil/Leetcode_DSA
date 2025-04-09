@@ -193,6 +193,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
+| [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -538,6 +539,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -1362,6 +1364,7 @@
 | [0801-is-graph-bipartite](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
+| [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
