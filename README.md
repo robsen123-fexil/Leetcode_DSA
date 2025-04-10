@@ -1369,6 +1369,7 @@
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
+| [3189-find-champion-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
