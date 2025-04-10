@@ -1341,6 +1341,7 @@
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -1363,6 +1364,7 @@
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -1373,11 +1375,13 @@
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3189-find-champion-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Ordered Set
 |  |
 | ------- |
