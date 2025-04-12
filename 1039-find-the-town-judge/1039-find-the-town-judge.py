@@ -8,6 +8,6 @@ class Solution:
             cnt[a]+=1
             count[b]+=1
         for k , v in cnt.items():
-            if v==-1 and count[k]==(n-1):
+            if v ==-1 and count[k]==(n-1):
                 return k
         return -1
