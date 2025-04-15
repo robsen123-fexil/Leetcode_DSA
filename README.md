@@ -1343,6 +1343,7 @@
 | [0801-is-graph-bipartite](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
+| [1005-univalued-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1005-univalued-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1876-map-of-highest-peak) |
@@ -1365,6 +1366,7 @@
 | [0801-is-graph-bipartite](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
+| [1005-univalued-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
@@ -1433,6 +1435,7 @@
 | [0690-employee-importance](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1454,6 +1457,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
