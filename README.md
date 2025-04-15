@@ -1333,6 +1333,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0112-path-sum) |
@@ -1422,6 +1423,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1445,6 +1447,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
