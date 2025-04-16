@@ -10,7 +10,7 @@ class Solution:
                     res[r][c]=0
                     q.append((r , c))
                     visit.add((r , c))
-        #neighbor
+     
         while q:
             r,c=q.popleft()
             h=res[r][c]
