@@ -196,6 +196,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1028-interval-list-intersections) |
+| [1032-satisfiability-of-equality-equations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1046-max-consecutive-ones-iii) |
@@ -676,6 +677,7 @@
 | [0952-word-subsets](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1032-satisfiability-of-equality-equations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -1212,6 +1214,7 @@
 | [0684-redundant-connection](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
 ## Sliding Window
 |  |
@@ -1405,6 +1408,7 @@
 | [0801-is-graph-bipartite](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3189-find-champion-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3189-find-champion-ii) |
