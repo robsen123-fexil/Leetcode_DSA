@@ -142,6 +142,7 @@
 | [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0498-diagonal-traverse) |
@@ -370,6 +371,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0556-next-greater-element-iii) |
@@ -762,6 +764,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0561-array-partition) |
@@ -889,6 +892,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
