@@ -236,6 +236,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -793,6 +794,7 @@
 | [1581-the-k-strongest-values-in-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1675-magnetic-force-between-two-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -912,6 +914,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1772-create-sorted-array-through-instructions) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2210-find-target-indices-after-sorting-array) |
