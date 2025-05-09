@@ -1,5 +1,4 @@
 class Solution:
-    import bisect
     def findRadius(self, houses: List[int], heaters: List[int]) -> int:
         n = len(houses)
         m = len(heaters)
@@ -7,7 +6,6 @@ class Solution:
         ans = 0
         for house in houses:
             index = bisect.bisect_left(heaters, house)
-
             if index==0:
                 nearest_heater_distance = heaters[0] - house
             elif index==m:
