@@ -295,6 +295,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2502-sort-the-people) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1038,6 +1039,7 @@
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2427-first-letter-to-appear-twice) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2594-count-pairs-of-similar-strings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
