@@ -933,6 +933,7 @@
 | [0055-jump-game](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0647-palindromic-substrings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1030,6 +1031,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
