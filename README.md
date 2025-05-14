@@ -111,6 +111,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1030,6 +1031,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0338-counting-bits) |
