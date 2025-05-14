@@ -1034,6 +1034,7 @@
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
