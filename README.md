@@ -637,6 +637,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -742,6 +743,7 @@
 | [3451-string-compression-iii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1193,6 +1195,7 @@
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
 |  |
 | ------- |
