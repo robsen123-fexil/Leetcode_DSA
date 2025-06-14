@@ -107,6 +107,7 @@
 | [0073-set-matrix-zeroes](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
@@ -1033,6 +1034,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0287-find-the-duplicate-number) |
@@ -1452,6 +1454,7 @@
 | [0022-generate-parentheses](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0078-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Line Sweep
