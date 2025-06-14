@@ -221,6 +221,7 @@
 | [1364-tuple-with-same-product](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1396-count-servers-that-communicate) |
+| [1435-xor-queries-of-a-subarray](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1042,6 +1043,7 @@
 | [0342-power-of-four](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/0645-set-mismatch) |
+| [1435-xor-queries-of-a-subarray](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1300,6 +1302,7 @@
 | [1242-matrix-block-sum](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1242-matrix-block-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
