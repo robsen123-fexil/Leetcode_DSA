@@ -5,14 +5,8 @@ class Solution:
         for i , val in enumerate(nums):
             if val==key:
                 res.append(i)
-        
         for i in res:
-            
             for j , val in enumerate(nums):
-                
                 if abs(i-j)<=k:
-
                     result.append(j)
-        
-       
         return list(set(result))
