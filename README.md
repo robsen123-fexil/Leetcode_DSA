@@ -1034,6 +1034,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |
 | ------- |
