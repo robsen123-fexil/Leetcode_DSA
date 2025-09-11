@@ -1,18 +1,17 @@
 class Solution:
     def sortVowels(self, s: str) -> str:
-        res=""
-        vow=[]
-        vowels=['a' , 'e' , 'i' , 'o' , 'u' ,'A' , 'E' , 'I' , 'O' , 'U']
+        ans=""
+        vowels=['a' , 'e' , 'i' , 'o' , 'u' , 'A' , 'E' , 'I' , 'O' , 'U' ]
+        v=[]
         for i in s:
             if i in vowels:
-                vow.append(i)
-        vow.sort()
+                v.append(i)
         l=0
+        v.sort()
         for i in s:
-            if i in vowels:
-                res+=vow[l]
+            if i in v:
+                ans+=v[l]
                 l+=1
             else:
-                res+=i
-        return res
-        
+                ans+=i
+        return ans
