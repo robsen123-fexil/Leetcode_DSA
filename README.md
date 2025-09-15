@@ -565,6 +565,7 @@
 | [1169-largest-values-from-labels](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1169-largest-values-from-labels) |
 | [1217-relative-sort-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1297-maximum-number-of-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -691,6 +692,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1297-maximum-number-of-balloons](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1321-get-equal-substrings-within-budget) |
