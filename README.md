@@ -344,6 +344,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3483-alternating-groups-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-transformed-array](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3651-transformed-array) |
 ## Two Pointers
 |  |
@@ -955,6 +956,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
@@ -1293,6 +1295,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3483-alternating-groups-ii](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1334,6 +1337,7 @@
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3311-ant-on-the-boundary](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3311-ant-on-the-boundary) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -1381,6 +1385,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/2195-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Interactive
 |  |
 | ------- |
@@ -1480,6 +1485,7 @@
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/robsen123-fexil/Leetcode_DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/robsen123-fexil/Algorithm-and-DS/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
 |  |
 | ------- |
